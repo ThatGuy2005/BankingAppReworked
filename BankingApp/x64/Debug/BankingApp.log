@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\PC\source\repos\BankingApp-main\BankingApp\BankingApp\account.h(27,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\PC\source\repos\BankingApp-main\BankingApp\BankingApp\account.h(40,62): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  BankingApp.vcxproj -> C:\Users\PC\source\repos\BankingApp-main\BankingApp\x64\Debug\BankingApp.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
